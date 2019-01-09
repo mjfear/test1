@@ -2,6 +2,9 @@
 testing
 
 test all anew!
+
 Test from gitBash
 
 Testing from gitKraken
+
+Testing from RStudio
